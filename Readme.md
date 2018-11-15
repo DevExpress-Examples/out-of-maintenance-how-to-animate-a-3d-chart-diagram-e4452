@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DiagramAnimation/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DiagramAnimation/MainWindow.xaml))
+<!-- default file list end -->
 # How to animate a 3D chart diagram 
 
 
