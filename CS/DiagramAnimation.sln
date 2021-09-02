@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagramAnimation", "DiagramAnimation\DiagramAnimation.csproj", "{799E0400-1C3B-48C9-925A-299BF14A4BFA}"
 EndProject
 Global
